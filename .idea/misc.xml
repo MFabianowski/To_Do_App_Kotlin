@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/custom.xml" value="0.5296296296296297" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5268518518518519" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/rounded_input.xml" value="0.346875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_add_task.xml" value="0.536" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/new_item.xml" value="0.4" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/new_task.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/task_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/task_layout.xml" value="0.264" />
       </map>
     </option>
   </component>

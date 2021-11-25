@@ -3,4 +3,7 @@
     <string name="headerTasks">Tasks</string>
     <string name="new_task_hint">New Task</string>
     <string name="add_text">Add</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_new_task">Enter task content…</string>
+    <string name="fab_desc">Add Task</string>
 </resources>
